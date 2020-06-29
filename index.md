@@ -9,3 +9,7 @@ dem Ihre ganz Familie zum Opfer gefallen ist. Hat sie Sprachen studiert und ist 
 * starker Wille
 * fürsorglich
 * unverdorben
+
+Zitat von Sivlia:
+
+> Rache ist eine feige Form der Trauer.
