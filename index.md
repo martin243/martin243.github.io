@@ -14,4 +14,4 @@ Zitat von Sivlia:
 
 > Rache ist eine feige Form der Trauer.
 
-<img=src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nicole_Kidman_Cannes_2017_2.jpg/426px-Nicole_Kidman_Cannes_2017_2.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nicole_Kidman_Cannes_2017_2.jpg/426px-Nicole_Kidman_Cannes_2017_2.jpg">
